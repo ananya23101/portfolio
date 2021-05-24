@@ -70,7 +70,7 @@
     }
     .text2 h1{
         font-size: 40px;
-        margin-top: 20px;
+        margin-top: 30px;
     }
     .text2{
         display: block;
@@ -83,10 +83,11 @@
         margin-top: 40px;
     }
     img{
-        margin-left: -50px;
+        margin-left: -150px;
+        margin-right: 150px;
     }
     .back2{
-        margin-left: -50px;
+        margin-left: -150px;
     }
 }
 .back{
